@@ -28,27 +28,6 @@ This project is designed to support a **gym or fitness platform**, making it eas
 
 ---
 
-## **Project Structure**
-```
-/gym-management-backend
- ├── src/
- │   ├── main/
- │   │   ├── java/com/example/cms/
- │   │   │   ├── controller/ (Controllers)
- │   │   │   ├── model/entity/ (Entities)
- │   │   │   ├── model/repository/ (Repositories)
- │   │   ├── resources/
- │   │   │   ├── application.properties
- │   │   ├── GmsApplication.java
- │   │   ├── test/ (Unit & Integration Tests)
- ├── pom.xml (if using Maven)
- ├── build.gradle (if using Gradle)
- ├── .gitignore
- ├── README.md
-```
-
----
-
 ## **API Endpoints**
 ### **User & Role Management**
 | Method | Endpoint | Description |
